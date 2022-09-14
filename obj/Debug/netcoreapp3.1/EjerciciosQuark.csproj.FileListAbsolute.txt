@@ -1,0 +1,14 @@
+C:\Users\Batzzer\source\repos\EjerciciosQuark\bin\Debug\netcoreapp3.1\EjerciciosQuark.exe
+C:\Users\Batzzer\source\repos\EjerciciosQuark\bin\Debug\netcoreapp3.1\EjerciciosQuark.deps.json
+C:\Users\Batzzer\source\repos\EjerciciosQuark\bin\Debug\netcoreapp3.1\EjerciciosQuark.runtimeconfig.json
+C:\Users\Batzzer\source\repos\EjerciciosQuark\bin\Debug\netcoreapp3.1\EjerciciosQuark.runtimeconfig.dev.json
+C:\Users\Batzzer\source\repos\EjerciciosQuark\bin\Debug\netcoreapp3.1\EjerciciosQuark.dll
+C:\Users\Batzzer\source\repos\EjerciciosQuark\bin\Debug\netcoreapp3.1\EjerciciosQuark.pdb
+C:\Users\Batzzer\source\repos\EjerciciosQuark\obj\Debug\netcoreapp3.1\EjerciciosQuark.csproj.AssemblyReference.cache
+C:\Users\Batzzer\source\repos\EjerciciosQuark\obj\Debug\netcoreapp3.1\EjerciciosQuark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batzzer\source\repos\EjerciciosQuark\obj\Debug\netcoreapp3.1\EjerciciosQuark.AssemblyInfoInputs.cache
+C:\Users\Batzzer\source\repos\EjerciciosQuark\obj\Debug\netcoreapp3.1\EjerciciosQuark.AssemblyInfo.cs
+C:\Users\Batzzer\source\repos\EjerciciosQuark\obj\Debug\netcoreapp3.1\EjerciciosQuark.csproj.CoreCompileInputs.cache
+C:\Users\Batzzer\source\repos\EjerciciosQuark\obj\Debug\netcoreapp3.1\EjerciciosQuark.dll
+C:\Users\Batzzer\source\repos\EjerciciosQuark\obj\Debug\netcoreapp3.1\EjerciciosQuark.pdb
+C:\Users\Batzzer\source\repos\EjerciciosQuark\obj\Debug\netcoreapp3.1\EjerciciosQuark.genruntimeconfig.cache
